@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+vault_integration.access_vault_secret,access_vault_secret,vault_integration.model_vault_secret,base.group_user,1,1,1,1
